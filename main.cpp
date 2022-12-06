@@ -3,8 +3,7 @@
 using namespace std;
 int main() { char a;
     cin>>a;
-    f(a);
-    if (f(a)==1) {
+    if (f(a)== true) {
         cout<<a<<endl;
     } else {
         cout<<"errore"<<endl;
