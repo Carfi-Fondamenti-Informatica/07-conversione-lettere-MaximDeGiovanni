@@ -1,7 +1,7 @@
 #include <iostream>
-#include "lib.h"
+#include "esercitazione 6.h"
 using namespace std;
-int main(){ char a;
+int main() { char a;
     cin>>a;
     f(a);
     if (f(a)==1) {
@@ -9,5 +9,7 @@ int main(){ char a;
     } else {
         cout<<"errore"<<endl;
     }
-  return 0;
+
+    return  0;
+
 }
