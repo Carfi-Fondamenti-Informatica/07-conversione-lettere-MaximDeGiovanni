@@ -1,1 +1,1 @@
-
+bool f (char &a);
