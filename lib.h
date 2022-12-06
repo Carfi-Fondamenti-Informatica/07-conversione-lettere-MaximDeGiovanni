@@ -1,3 +1,10 @@
-#define ESERCITAZIONE7_LIB_H
+//
+// Created by ireti on 06/12/2022.
+//
+
+#ifndef ESERCITAZIONE_7_ESERCITAZIONE_6_H
+#define ESERCITAZIONE_7_ESERCITAZIONE_6_H
+
+#endif //ESERCITAZIONE_7_ESERCITAZIONE_6_H
+
 bool f (char &a);
-#endif 
