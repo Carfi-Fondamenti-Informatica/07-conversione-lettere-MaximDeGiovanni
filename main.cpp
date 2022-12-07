@@ -2,7 +2,7 @@
 #include "lib.h"
 using namespace std;
 int main() {
-    char a=0;
+    char n=0;
     cin>>a;
     if (funzione(a)== true) {
         cout<< a <<endl;
