@@ -1,22 +1,21 @@
 #include <iostream>
 #include "lib.h"
 
-bool funzione(char &a)
-{
+using namespace std;
 
-    
-        if (a>= 65 and a<=90)
-        {
-            a+=32;
-            return true;
-        }
-       else if (a >= 97 and a <=122)
-       {
-            a-=32;
+bool lettera(char &a){
+    if (a >=65 && a <=90 )
+    {
+        a+= 32;
         return true;
-        } 
-        else
-        {
-        return false;
-        }
+    }
+    else if(a >=97 && a<=122 )
+    {
+        a-=32;
+        return true;
+    }
+    else
+       return false;
+    
+
 }
