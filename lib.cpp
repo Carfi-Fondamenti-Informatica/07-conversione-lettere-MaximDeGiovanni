@@ -1,4 +1,5 @@
-#include "esercitazione 6.h"
+#include <iostream>
+#include "lib.h"
 
 bool f(char &a)
 {
