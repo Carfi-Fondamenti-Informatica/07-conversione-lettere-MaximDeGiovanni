@@ -4,12 +4,9 @@ using namespace std;
 int main() {
     char n=0;
     cin>>n;
-    if (funzione(n)== true) {
+    if (lettera(n)==true)
         cout<< n <<endl;
-    } else {
+    else
         cout<<"errore"<<endl;
-    }
-
-    return  0;
-
+    return 0;
 }
