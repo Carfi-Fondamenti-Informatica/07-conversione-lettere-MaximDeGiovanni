@@ -1,2 +1,2 @@
 
-bool f (char &a);
+bool f(char &a);
