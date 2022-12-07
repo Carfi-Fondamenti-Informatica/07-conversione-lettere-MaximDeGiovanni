@@ -1,5 +1,5 @@
 #include <iostream>
-#include "esercitazione 6.h"
+#include "lib.h"
 using namespace std;
 int main() {
     char a=0;
