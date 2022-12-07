@@ -3,9 +3,9 @@
 using namespace std;
 int main() {
     char n=0;
-    cin>>a;
-    if (funzione(a)== true) {
-        cout<< a <<endl;
+    cin>>n;
+    if (funzione(n)== true) {
+        cout<< n <<endl;
     } else {
         cout<<"errore"<<endl;
     }
