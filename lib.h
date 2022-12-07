@@ -1,2 +1,4 @@
 
-bool funzione(char &a);
+
+
+bool lettera(char &a);
