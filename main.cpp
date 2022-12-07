@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     char a=0;
     cin>>a;
-    if (f(a)== true) {
+    if (funzione(a)== true) {
         cout<< a <<endl;
     } else {
         cout<<"errore"<<endl;
